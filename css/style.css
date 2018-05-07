@@ -1,0 +1,32 @@
+.box{
+  border-style: solid;
+  border-width: 2px;
+  background-color:white;
+  width:50%;
+  margin:auto;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding-bottom:20px;
+  border-radius:5px;
+}
+body{
+  background-color: black;
+}
+#quote{
+  margin-top:30px;
+}
+#author{
+  margin-right:20px;
+}
+#new{
+  margin-right:20px;
+  border-radius:5px;
+}
+.social{
+  border-radius:5px;
+  margin-top:40px;
+  margin-left:20px;
+}
+@keyframes color{
+  to{background-color:newcolor;}
+}
